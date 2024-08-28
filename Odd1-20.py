@@ -6,3 +6,5 @@ while j < 20:
 for i in range(20):
     if (i % 2 > 0):
         print("odd")
+print("This should also show")
+abc = 10
